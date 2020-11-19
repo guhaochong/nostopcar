@@ -790,17 +790,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-sgKnP6BNcR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-sgKnP6BNcR .line {
-  background-color: #6592e6;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
 .cid-sgFQrWCygK {
   z-index: 1000;
   width: 100%;
@@ -1173,6 +1162,17 @@ a {
   .cid-sgFR7AJy4t .card-wrapper {
     padding: 3rem 1rem;
   }
+}
+.cid-sgKnP6BNcR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sgKnP6BNcR .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
 .cid-sgKnPryEsl {
   padding-top: 5rem;
